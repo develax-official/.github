@@ -6,11 +6,11 @@
 
 ### 플러그인
 
-| 플러그인 | 하는 일 | 설치 |
-|---|---|---|
-| [develax-starter](https://github.com/develax-official/develax-starter) | "홈페이지 만들어서 올려줘" 한 마디로 만들기, GitHub 보관, GitHub Pages·Cloudflare Pages 공개까지. 스킬 5개(`/launch`, `/setup-check`, `/save`, `/deploy-pages`, `/deploy-cloudflare`) | 아래 두 줄 |
+| 플러그인 | 하는 일 |
+|---|---|
+| [develax-starter](https://github.com/develax-official/develax-starter) | "홈페이지 만들어서 올려줘" 한 마디로 만들기, GitHub 보관, GitHub Pages·Cloudflare Pages 공개까지. 스킬 5개: `/launch`, `/setup-check`, `/save`, `/deploy-pages`, `/deploy-cloudflare` |
 
-Claude 데스크톱 앱 Code 탭에서 차례로 입력합니다.
+**설치**: Claude 데스크톱 앱 Code 탭에서 두 줄을 차례로 입력합니다.
 
 ```
 /plugin marketplace add develax-official/develax-starter
