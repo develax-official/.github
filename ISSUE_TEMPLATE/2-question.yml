@@ -1,0 +1,11 @@
+name: 질문·제안
+description: 사용법이 궁금하거나, 있었으면 하는 기능이 있을 때
+labels: ["질문·제안"]
+body:
+  - type: textarea
+    id: body
+    attributes:
+      label: 내용
+      description: 편하게 적어 주세요. 개인정보는 적지 말아 주세요.
+    validations:
+      required: true

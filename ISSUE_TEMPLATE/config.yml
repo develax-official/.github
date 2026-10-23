@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 바이브코딩 환경 세팅 안내(Develog)
+    url: https://develog.develrocket.com/@web7722/topic/vibe-coding-setup
+    about: Git, GitHub CLI 설치와 로그인 방법은 이 시리즈를 먼저 확인해 주세요.
+  - name: 디벨AX 사이트
+    url: https://develax.develrocket.com
+    about: 강의와 교재 안내
